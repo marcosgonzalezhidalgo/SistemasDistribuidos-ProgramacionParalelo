@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TEMP.UNEALUM.002\\Desktop\\SistemasDistribuidos-ProgramacionParalelo\\EmpezarVisualStudio\\Clase1 --- 16-09\\PrimeraSolucion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{17CD37BB-F297-4D49-8A15-2F3A0BE63D7D}|PrimeraSolucion\\ProyectoConsola1.csproj|c:\\users\\temp.unealum.002\\desktop\\sistemasdistribuidos-programacionparalelo\\empezarvisualstudio\\clase1 --- 16-09\\primerasolucion\\primerasolucion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17CD37BB-F297-4D49-8A15-2F3A0BE63D7D}|PrimeraSolucion\\ProyectoConsola1.csproj|solutionrelative:primerasolucion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17CD37BB-F297-4D49-8A15-2F3A0BE63D7D}|PrimeraSolucion\\ProyectoConsola1.csproj|c:\\users\\temp.unealum.002\\desktop\\sistemasdistribuidos-programacionparalelo\\empezarvisualstudio\\clase1 --- 16-09\\primerasolucion\\primerasolucion\\proyectoconsola1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{17CD37BB-F297-4D49-8A15-2F3A0BE63D7D}|PrimeraSolucion\\ProyectoConsola1.csproj|solutionrelative:primerasolucion\\proyectoconsola1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E54209-FE3E-41D2-93DD-EC0FEAFD3B86}|Class1\\Class1.csproj|c:\\users\\temp.unealum.002\\desktop\\sistemasdistribuidos-programacionparalelo\\empezarvisualstudio\\clase1 --- 16-09\\primerasolucion\\class1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73E54209-FE3E-41D2-93DD-EC0FEAFD3B86}|Class1\\Class1.csproj|solutionrelative:class1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\TEMP.UNEALUM.002\\Desktop\\SistemasDistribuidos-ProgramacionParalelo\\EmpezarVisualStudio\\Clase1 --- 16-09\\PrimeraSolucion\\Class1\\Class1.cs",
+              "RelativeDocumentMoniker": "Class1\\Class1.cs",
+              "ToolTip": "C:\\Users\\TEMP.UNEALUM.002\\Desktop\\SistemasDistribuidos-ProgramacionParalelo\\EmpezarVisualStudio\\Clase1 --- 16-09\\PrimeraSolucion\\Class1\\Class1.cs",
+              "RelativeToolTip": "Class1\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T06:41:59.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProyectoConsola1",
+              "DocumentMoniker": "C:\\Users\\TEMP.UNEALUM.002\\Desktop\\SistemasDistribuidos-ProgramacionParalelo\\EmpezarVisualStudio\\Clase1 --- 16-09\\PrimeraSolucion\\PrimeraSolucion\\ProyectoConsola1.csproj",
+              "RelativeDocumentMoniker": "PrimeraSolucion\\ProyectoConsola1.csproj",
+              "ToolTip": "C:\\Users\\TEMP.UNEALUM.002\\Desktop\\SistemasDistribuidos-ProgramacionParalelo\\EmpezarVisualStudio\\Clase1 --- 16-09\\PrimeraSolucion\\PrimeraSolucion\\ProyectoConsola1.csproj",
+              "RelativeToolTip": "PrimeraSolucion\\ProyectoConsola1.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-16T06:26:39.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\TEMP.UNEALUM.002\\Desktop\\SistemasDistribuidos-ProgramacionParalelo\\EmpezarVisualStudio\\Clase1 --- 16-09\\PrimeraSolucion\\PrimeraSolucion\\Program.cs",
+              "RelativeDocumentMoniker": "PrimeraSolucion\\Program.cs",
+              "ToolTip": "C:\\Users\\TEMP.UNEALUM.002\\Desktop\\SistemasDistribuidos-ProgramacionParalelo\\EmpezarVisualStudio\\Clase1 --- 16-09\\PrimeraSolucion\\PrimeraSolucion\\Program.cs",
+              "RelativeToolTip": "PrimeraSolucion\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T06:23:09.698Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

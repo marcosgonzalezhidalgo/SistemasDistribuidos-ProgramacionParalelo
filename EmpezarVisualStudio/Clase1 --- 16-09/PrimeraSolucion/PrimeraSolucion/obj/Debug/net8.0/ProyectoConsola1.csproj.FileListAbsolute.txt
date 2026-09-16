@@ -1,0 +1,29 @@
+C:\Users\TEMP.UNEALUM.002\Desktop\PrimeraSolucion\PrimeraSolucion\bin\Debug\net8.0\ProyectoConsola1.exe
+C:\Users\TEMP.UNEALUM.002\Desktop\PrimeraSolucion\PrimeraSolucion\bin\Debug\net8.0\ProyectoConsola1.deps.json
+C:\Users\TEMP.UNEALUM.002\Desktop\PrimeraSolucion\PrimeraSolucion\bin\Debug\net8.0\ProyectoConsola1.runtimeconfig.json
+C:\Users\TEMP.UNEALUM.002\Desktop\PrimeraSolucion\PrimeraSolucion\bin\Debug\net8.0\ProyectoConsola1.dll
+C:\Users\TEMP.UNEALUM.002\Desktop\PrimeraSolucion\PrimeraSolucion\bin\Debug\net8.0\ProyectoConsola1.pdb
+C:\Users\TEMP.UNEALUM.002\Desktop\PrimeraSolucion\PrimeraSolucion\obj\Debug\net8.0\ProyectoConsola1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TEMP.UNEALUM.002\Desktop\PrimeraSolucion\PrimeraSolucion\obj\Debug\net8.0\ProyectoConsola1.AssemblyInfoInputs.cache
+C:\Users\TEMP.UNEALUM.002\Desktop\PrimeraSolucion\PrimeraSolucion\obj\Debug\net8.0\ProyectoConsola1.AssemblyInfo.cs
+C:\Users\TEMP.UNEALUM.002\Desktop\PrimeraSolucion\PrimeraSolucion\obj\Debug\net8.0\ProyectoConsola1.csproj.CoreCompileInputs.cache
+C:\Users\TEMP.UNEALUM.002\Desktop\PrimeraSolucion\PrimeraSolucion\obj\Debug\net8.0\ProyectoConsola1.dll
+C:\Users\TEMP.UNEALUM.002\Desktop\PrimeraSolucion\PrimeraSolucion\obj\Debug\net8.0\refint\ProyectoConsola1.dll
+C:\Users\TEMP.UNEALUM.002\Desktop\PrimeraSolucion\PrimeraSolucion\obj\Debug\net8.0\ProyectoConsola1.pdb
+C:\Users\TEMP.UNEALUM.002\Desktop\PrimeraSolucion\PrimeraSolucion\obj\Debug\net8.0\ProyectoConsola1.genruntimeconfig.cache
+C:\Users\TEMP.UNEALUM.002\Desktop\PrimeraSolucion\PrimeraSolucion\obj\Debug\net8.0\ref\ProyectoConsola1.dll
+C:\Users\TEMP.UNEALUM.002\Desktop\SistemasDistribuidos-ProgramacionParalelo\EmpezarVisualStudio\Clase1 --- 16-09\PrimeraSolucion\PrimeraSolucion\bin\Debug\net8.0\ProyectoConsola1.exe
+C:\Users\TEMP.UNEALUM.002\Desktop\SistemasDistribuidos-ProgramacionParalelo\EmpezarVisualStudio\Clase1 --- 16-09\PrimeraSolucion\PrimeraSolucion\bin\Debug\net8.0\ProyectoConsola1.deps.json
+C:\Users\TEMP.UNEALUM.002\Desktop\SistemasDistribuidos-ProgramacionParalelo\EmpezarVisualStudio\Clase1 --- 16-09\PrimeraSolucion\PrimeraSolucion\bin\Debug\net8.0\ProyectoConsola1.runtimeconfig.json
+C:\Users\TEMP.UNEALUM.002\Desktop\SistemasDistribuidos-ProgramacionParalelo\EmpezarVisualStudio\Clase1 --- 16-09\PrimeraSolucion\PrimeraSolucion\bin\Debug\net8.0\ProyectoConsola1.dll
+C:\Users\TEMP.UNEALUM.002\Desktop\SistemasDistribuidos-ProgramacionParalelo\EmpezarVisualStudio\Clase1 --- 16-09\PrimeraSolucion\PrimeraSolucion\bin\Debug\net8.0\ProyectoConsola1.pdb
+C:\Users\TEMP.UNEALUM.002\Desktop\SistemasDistribuidos-ProgramacionParalelo\EmpezarVisualStudio\Clase1 --- 16-09\PrimeraSolucion\PrimeraSolucion\obj\Debug\net8.0\ProyectoConsola1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TEMP.UNEALUM.002\Desktop\SistemasDistribuidos-ProgramacionParalelo\EmpezarVisualStudio\Clase1 --- 16-09\PrimeraSolucion\PrimeraSolucion\obj\Debug\net8.0\ProyectoConsola1.AssemblyInfoInputs.cache
+C:\Users\TEMP.UNEALUM.002\Desktop\SistemasDistribuidos-ProgramacionParalelo\EmpezarVisualStudio\Clase1 --- 16-09\PrimeraSolucion\PrimeraSolucion\obj\Debug\net8.0\ProyectoConsola1.AssemblyInfo.cs
+C:\Users\TEMP.UNEALUM.002\Desktop\SistemasDistribuidos-ProgramacionParalelo\EmpezarVisualStudio\Clase1 --- 16-09\PrimeraSolucion\PrimeraSolucion\obj\Debug\net8.0\ProyectoConsola1.csproj.CoreCompileInputs.cache
+C:\Users\TEMP.UNEALUM.002\Desktop\SistemasDistribuidos-ProgramacionParalelo\EmpezarVisualStudio\Clase1 --- 16-09\PrimeraSolucion\PrimeraSolucion\obj\Debug\net8.0\ProyectoConsola1.sourcelink.json
+C:\Users\TEMP.UNEALUM.002\Desktop\SistemasDistribuidos-ProgramacionParalelo\EmpezarVisualStudio\Clase1 --- 16-09\PrimeraSolucion\PrimeraSolucion\obj\Debug\net8.0\ProyectoConsola1.dll
+C:\Users\TEMP.UNEALUM.002\Desktop\SistemasDistribuidos-ProgramacionParalelo\EmpezarVisualStudio\Clase1 --- 16-09\PrimeraSolucion\PrimeraSolucion\obj\Debug\net8.0\refint\ProyectoConsola1.dll
+C:\Users\TEMP.UNEALUM.002\Desktop\SistemasDistribuidos-ProgramacionParalelo\EmpezarVisualStudio\Clase1 --- 16-09\PrimeraSolucion\PrimeraSolucion\obj\Debug\net8.0\ProyectoConsola1.pdb
+C:\Users\TEMP.UNEALUM.002\Desktop\SistemasDistribuidos-ProgramacionParalelo\EmpezarVisualStudio\Clase1 --- 16-09\PrimeraSolucion\PrimeraSolucion\obj\Debug\net8.0\ProyectoConsola1.genruntimeconfig.cache
+C:\Users\TEMP.UNEALUM.002\Desktop\SistemasDistribuidos-ProgramacionParalelo\EmpezarVisualStudio\Clase1 --- 16-09\PrimeraSolucion\PrimeraSolucion\obj\Debug\net8.0\ref\ProyectoConsola1.dll
