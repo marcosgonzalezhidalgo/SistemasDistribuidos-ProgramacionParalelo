@@ -27,3 +27,7 @@ C:\Users\TEMP.UNEALUM.002\Desktop\SistemasDistribuidos-ProgramacionParalelo\Empe
 C:\Users\TEMP.UNEALUM.002\Desktop\SistemasDistribuidos-ProgramacionParalelo\EmpezarVisualStudio\Clase1 --- 16-09\PrimeraSolucion\PrimeraSolucion\obj\Debug\net8.0\ProyectoConsola1.pdb
 C:\Users\TEMP.UNEALUM.002\Desktop\SistemasDistribuidos-ProgramacionParalelo\EmpezarVisualStudio\Clase1 --- 16-09\PrimeraSolucion\PrimeraSolucion\obj\Debug\net8.0\ProyectoConsola1.genruntimeconfig.cache
 C:\Users\TEMP.UNEALUM.002\Desktop\SistemasDistribuidos-ProgramacionParalelo\EmpezarVisualStudio\Clase1 --- 16-09\PrimeraSolucion\PrimeraSolucion\obj\Debug\net8.0\ref\ProyectoConsola1.dll
+C:\Users\TEMP.UNEALUM.002\Desktop\SistemasDistribuidos-ProgramacionParalelo\EmpezarVisualStudio\Clase1 --- 16-09\PrimeraSolucion\PrimeraSolucion\bin\Debug\net8.0\ClassLibrary1.dll
+C:\Users\TEMP.UNEALUM.002\Desktop\SistemasDistribuidos-ProgramacionParalelo\EmpezarVisualStudio\Clase1 --- 16-09\PrimeraSolucion\PrimeraSolucion\bin\Debug\net8.0\ClassLibrary1.pdb
+C:\Users\TEMP.UNEALUM.002\Desktop\SistemasDistribuidos-ProgramacionParalelo\EmpezarVisualStudio\Clase1 --- 16-09\PrimeraSolucion\PrimeraSolucion\obj\Debug\net8.0\ProyectoConsola1.csproj.AssemblyReference.cache
+C:\Users\TEMP.UNEALUM.002\Desktop\SistemasDistribuidos-ProgramacionParalelo\EmpezarVisualStudio\Clase1 --- 16-09\PrimeraSolucion\PrimeraSolucion\obj\Debug\net8.0\Proyecto.E8C2C07E.Up2Date
